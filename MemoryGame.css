@@ -1,1 +1,22 @@
+html{
+    background-color: midnightblue;
+}
+.b{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin-top: 10px ;
+    margin-left: 10px;
+}
+.a{
 
+    background-image:url("http://www.joomlaworks.net/images/demos/galleries/abstract/7.jpg");
+    width: 200px;
+    height: 200px;
+    margin-top: 10px ;
+}
+#c{
+    margin-top:10px ;
+    display: inline-block;
+    margin-left: 45px;
+}
