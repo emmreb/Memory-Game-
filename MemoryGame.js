@@ -1,4 +1,3 @@
-
 /**
  * Created by itc_user1 on 12/29/2016.
  */
@@ -77,6 +76,17 @@ for (var r = 0; r < 6; r++) {
         return 0.5 - Math.random();
     });
 }
+//new game button
+var btn = document.createElement("BUTTON");
+var t = document.createTextNode("NEW GAME");
+btn.appendChild(t);
+document.body.appendChild(btn);
+btn.onclick=(now);
 
+function now() {
+    location.reload(true);
 
+}
 MemoryGame.start();
+
+
