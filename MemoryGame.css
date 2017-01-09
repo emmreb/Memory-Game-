@@ -1,11 +1,12 @@
-html{
-    background-color: midnightblue;
+.h1{
+    margin-left: 40px;
+    color: midnightblue;
 }
 .b{
     display: inline-block;
     width: 200px;
     height: 200px;
-    margin-top: 10px ;
+    margin-top: 20px ;
     margin-left: 10px;
 }
 .a{
@@ -16,7 +17,7 @@ html{
     margin-top: 8px ;
 }
 #c{
-    margin-top:10px ;
+    margin-top:20px ;
     display: inline-block;
     margin-left: 45px;
 }
