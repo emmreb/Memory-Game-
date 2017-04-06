@@ -1,5 +1,5 @@
 /**
- * Created by itc_user1 on 12/29/2016.
+ * Created by Rebecca Emmerich on 12/29/2016.
  */
 
 var MemoryGame = {}
